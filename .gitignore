@@ -1,0 +1,7 @@
+#################
+## Victor Alejandro Rojas Yovaniniz - Control de usuarios
+#################
+
+#Ignorando los archivos de la carpeta imagen
+*.png
+*.jpg
